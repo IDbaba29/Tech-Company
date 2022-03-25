@@ -1,3 +1,9 @@
+# This project was created to improve my grasp of HTML,CSS & Javascript
+I used ant design of React for this project
+
+# The live site can be seen here: https://erichtech.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
